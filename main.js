@@ -34,5 +34,5 @@ ScrollReveal().reveal(".socials a", {
     ...scrollRevealOption,
     duration: 1000,
     interval: 500,
-    delay: 4000,
+    delay: 3000,
 });
